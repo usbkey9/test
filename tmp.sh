@@ -10,5 +10,5 @@ if [[ $gitup == 1 ]]; then
 elif [[ $gitup == 2 ]]; then
 	echo "Error";
 else
-	echo "Continu";
+	echo "Continue";
 fi
