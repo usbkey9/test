@@ -12,12 +12,25 @@ while [ -h "$SOURCE" ]; do
 done
 cd "$( cd -P "$( dirname "$SOURCE" )" && pwd )"
 
+function checkEverUp() {
+
+	file="autoup.tmp"
+	#if [[ -f $file &&  ]]; then
+		#Ever up-to-date
+	#	exit 0;
+	#else
+	#	echo $date > $file
+	#fi
+}
+
 function refresh() {
 
 	git fetch -a
 	local=$(git rev-parse HEAD)
 	base=$(git rev-parse @{u})
 }
+
+checkEverUp
 
 #Test if it's a valid git repo
 if [[ ! -d .git || $(git rev-list --all --count) == 0 ]]; then
