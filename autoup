@@ -28,7 +28,7 @@ upstream=${1:-'@{u}'}
 refresh
 
 if [ ! $local = $base ]; then
-	git pull >> /dev/null 2>&1
+	git pull -q >> /dev/null 2>&1
 	refresh
 	if [ $local = $base ]; then
 		#ERROR: Repo still outdated
