@@ -16,7 +16,7 @@ function refresh() {
 
 	git fetch -a
 	local=$(git rev-parse HEAD)
-    base=$(git rev-parse @{u})
+	base=$(git rev-parse @{u})
 }
 
 #Test if it's a valid git repo
