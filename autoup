@@ -26,6 +26,7 @@ fi
 
 refresh
 
+
 if [ ! $local = $base ]; then
 	git pull -q >> /dev/null 2>&1
 	refresh
