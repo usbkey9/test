@@ -5,10 +5,10 @@ gitup="$?";
 
 if [[ $gitup == 1 ]]; then
 	echo "Need to reload script";
-	echo "ArgsLOl : $@";
+	echo "Args : $@";
 	./$0 $@
 elif [[ $gitup == 2 ]]; then
 	echo "Error";
 else
-	echo "Continue";
+	echo "Continu";
 fi

@@ -3,6 +3,7 @@
   <component name="ChangeListManager">
     <list default="true" id="8664dbeb-3118-4f8a-8f57-36b2e22e99e8" name="Default" comment="">
       <change beforePath="$PROJECT_DIR$/autoup" beforeDir="false" afterPath="$PROJECT_DIR$/autoup" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/tmp.sh" beforeDir="false" afterPath="$PROJECT_DIR$/tmp.sh" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -13,7 +14,7 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file leaf-file-name="autoup" pinned="false" current-in-tab="true">
+      <file leaf-file-name="autoup" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/autoup">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="276">
@@ -22,11 +23,11 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="tmp.sh" pinned="false" current-in-tab="false">
+      <file leaf-file-name="tmp.sh" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/tmp.sh">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="210">
-              <caret line="14" lean-forward="true" selection-start-line="14" selection-end-line="14" />
+            <state relative-caret-position="180">
+              <caret line="12" column="17" selection-start-line="12" selection-start-column="17" selection-end-line="12" selection-end-column="17" />
             </state>
           </provider>
         </entry>
@@ -39,8 +40,8 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/tmp.sh" />
         <option value="$PROJECT_DIR$/autoup" />
+        <option value="$PROJECT_DIR$/tmp.sh" />
       </list>
     </option>
   </component>
@@ -174,17 +175,17 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/tmp.sh">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="210">
-          <caret line="14" lean-forward="true" selection-start-line="14" selection-end-line="14" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/autoup">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="276">
           <caret line="27" lean-forward="true" selection-start-line="27" selection-end-line="27" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/tmp.sh">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="180">
+          <caret line="12" column="17" selection-start-line="12" selection-start-column="17" selection-end-line="12" selection-end-column="17" />
         </state>
       </provider>
     </entry>
