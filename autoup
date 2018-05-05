@@ -24,7 +24,6 @@ if [[ ! -d .git || $(git rev-list --all --count) == 0 ]]; then
 	exit 0;
 fi
 
-upstream=${1:-'@{u}'}
 refresh
 
 if [ ! $local = $base ]; then
