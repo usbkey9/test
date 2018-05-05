@@ -12,4 +12,4 @@ elif [[ $gitup == 2 ]]; then
 	exit;
 fi
 
-echo "ScriptA";
+echo "Script";

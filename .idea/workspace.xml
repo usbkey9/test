@@ -1,9 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="8664dbeb-3118-4f8a-8f57-36b2e22e99e8" name="Default" comment="">
-      <change beforePath="$PROJECT_DIR$/tmp.sh" beforeDir="false" afterPath="$PROJECT_DIR$/tmp.sh" afterDir="false" />
-    </list>
+    <list default="true" id="8664dbeb-3118-4f8a-8f57-36b2e22e99e8" name="Default" comment="" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -25,8 +23,8 @@
       <file leaf-file-name="tmp.sh" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/tmp.sh">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="120">
-              <caret line="8" column="9" selection-start-line="8" selection-start-column="9" selection-end-line="8" selection-end-column="9" />
+            <state relative-caret-position="210">
+              <caret line="14" column="12" lean-forward="true" selection-start-line="14" selection-start-column="12" selection-end-line="14" selection-end-column="12" />
             </state>
           </provider>
         </entry>
@@ -323,8 +321,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/tmp.sh">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="120">
-          <caret line="8" column="9" selection-start-line="8" selection-start-column="9" selection-end-line="8" selection-end-column="9" />
+        <state relative-caret-position="210">
+          <caret line="14" column="12" lean-forward="true" selection-start-line="14" selection-start-column="12" selection-end-line="14" selection-end-column="12" />
         </state>
       </provider>
     </entry>
