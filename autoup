@@ -26,11 +26,10 @@ fi
 
 refresh
 
-
 if [ ! $local = $base ]; then
 	git pull -q >> /dev/null 2>&1
 	refresh
-	if [ $local = $base ]; then
+	if [ ! $local = $base ]; then
 		#ERROR: Repo still outdated
 		exit 2;
 	else
