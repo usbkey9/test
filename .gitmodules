@@ -1,3 +1,3 @@
-[submodule "autoup"]
-	path = autoup
-	url = https://github.com/usbkey9/autoup
+[submodule "./autoup"]
+	path = ./autoup
+	url = git@github.com:usbkey9/autoup.git
